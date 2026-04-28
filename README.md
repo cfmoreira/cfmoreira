@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there! 👋
+
+Biomedical engineer turned PM. Built neurotechnology products for esports & corporate wellbeing. Now asking: what happens when you apply neuroscience to everyday product problems?
 
 <!--
 **cfmoreira/cfmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
